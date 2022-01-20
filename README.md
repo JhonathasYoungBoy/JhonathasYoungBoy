@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jhonathas
 - 👀 I’m interested in program.
-- 🌱 I’m currently learning HTML, CSS, JavaScrip and PHP.
+- 🌱 I’m currently learning HTML, CSS, PHP and Python.
 
 <!---
 JhonathasYoungBoy/JhonathasYoungBoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
